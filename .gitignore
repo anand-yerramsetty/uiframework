@@ -1,0 +1,10 @@
+.idea/misc.xml
+.idea/compiler.xml
+.idea/copilot.data.migration.agent.xml
+.idea/jarRepositories.xml
+.idea/vcs.xml
+.idea/copilot.data.migration.ask.xml
+.idea/copilot.data.migration.edit.xml
+test-output/Default Suite/uiframework.html
+test-output/Default Suite/uiframework.xml
+test-output/junitreports/TEST-com.ui.tests.LoginTest.xml
