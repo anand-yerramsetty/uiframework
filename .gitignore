@@ -8,3 +8,23 @@
 test-output/Default Suite/uiframework.html
 test-output/Default Suite/uiframework.xml
 test-output/junitreports/TEST-com.ui.tests.LoginTest.xml
+target/test-classes/com/constants/Browser.class
+target/test-classes/com/constants/Env.class
+target/test-classes/com/ui/dataProviders/LoginDataProvider.class
+target/test-classes/com/ui/pages/HomePage.class
+target/test-classes/com/ui/pages/LoginPage.class
+target/test-classes/com/ui/pages/MyAccountPage.class
+target/test-classes/com/ui/pojo/Config.class
+target/test-classes/com/ui/pojo/Environment.class
+target/test-classes/com/ui/pojo/TestData.class
+target/test-classes/com/ui/pojo/User.class
+target/test-classes/com/ui/tests/LoginTest.class
+target/test-classes/com/ui/tests/LoginTest1.class
+target/test-classes/com/ui/tests/LoginTest2.class
+target/test-classes/com/ui/tests/LoginTestOld.class
+target/test-classes/com/utility/BrowserUtility.class
+target/test-classes/com/utility/ExcelReaderUtility.class
+target/test-classes/com/utility/JSONUtility.class
+target/test-classes/com/utility/PropertiesUtil.class
+target/test-classes/SampleClass.class
+testData/LoginData.xlsx
